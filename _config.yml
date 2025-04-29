@@ -1,4 +1,1 @@
-display: inline-flex;
-height: 8803px;
-flex-direction: column;
-align-items: flex-start;
+remote_theme: pages-themes/tactile@v0.2.0
