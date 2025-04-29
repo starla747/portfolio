@@ -1,7 +1,7 @@
 remote_theme: pages-themes/tactile@v0.2.0
 gem "github-pages", group: :jekyll_plugins
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Design Portfolio]
+description: [I'm Daniela Soto and I'm an Art Director]
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 
