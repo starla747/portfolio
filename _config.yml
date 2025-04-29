@@ -1,8 +1,1 @@
-remote_theme: pages-themes/tactile@v0.2.0
-gem "github-pages", group: :jekyll_plugins
-title: [Design Portfolio]
-description: [I'm Daniela Soto and I'm an Art Director]
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-
-
+npx @builder.io/dev-tools@latest code --url "https://builder.io/fiddle/97f6e86278584f7a9ddda5a4167f5274?fromFigma=true" --spaceId 
