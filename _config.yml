@@ -1,1 +1,4 @@
-npx @builder.io/dev-tools@latest code --url "https://builder.io/fiddle/97f6e86278584f7a9ddda5a4167f5274?fromFigma=true" --spaceId 
+display: inline-flex;
+height: 8803px;
+flex-direction: column;
+align-items: flex-start;
